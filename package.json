@@ -1,0 +1,15 @@
+{
+  "name": "mock-rocket",
+  "version": "0.0.0",
+  "description": "A mock data persistance service for node projects.",
+  "main": "./bin/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "typescript",
+    "node"
+  ],
+  "author": "euclidthedark",
+  "license": "MIT"
+}
