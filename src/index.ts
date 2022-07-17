@@ -1,9 +1,4 @@
-const helloWorld: string = 'Hello World!';
-
-
-function printF(s: string) {
-  return console.log(s);
+export function printF (s: string) {
+  return `${s} made it`;
 }
-
-printF(helloWorld);
 
